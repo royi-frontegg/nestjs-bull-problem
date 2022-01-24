@@ -9,7 +9,7 @@ import { OtherModule } from './other-module/other.module';
             redis: {
                 port: 6380,
                 host: 'localhost',
-                commandTimeout: 1000
+                // commandTimeout: 1000
             }
         })
     ],
